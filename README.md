@@ -5,7 +5,11 @@
 
 - 🔭 I’m currently working on **Generative AI**
 
-- 🌱 I’m currently learning **Langchain AI**
+- 🌱 I’m currently learning **Langchain AI,Typescript,GraphQL**
+
+- 👯 I’m looking to collaborate on **Fullstack Projects**
+
+- 💬 Ask me about **Node, React, Python,Javascript, AWS, and any general software development questions.**
 
 - 📫 How to reach me **jotirmaymanik@gmail.com**
 
@@ -22,3 +26,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jotirmay00&show_icons=true&locale=en" alt="jotirmay00" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jotirmay00&" alt="jotirmay00" /></p>
+
