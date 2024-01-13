@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jotirmay00" alt="jotirmay00" /></a> </p>
 
-- 🔭 I’m currently working on **Generative AI**
+- 🔭 I’m currently working on **Generative AI and Fullstack Applications**
 
 - 🌱 I’m currently learning **Langchain AI,Typescript,GraphQL**
 
